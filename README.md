@@ -1,7 +1,7 @@
 eyeo_2012_remarks
 =================
 
-(my stream of conscious poem at the end of eyeo festival this year. will clean it up / format it shortly)
+(my stream of conscious poem at the end of eyeo festival this year. will clean it up / format it shortly)  My talk was about failure and things going wrong.  I told alot of stories, and ended with this.  Some folks asked me to publish is, to I threw it up here. 
 
 
 
