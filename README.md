@@ -1,7 +1,7 @@
 eyeo_2012_remarks
 =================
 
-(my stream of conscious poem at the end of eyeo festival this year)
+(my stream of conscious poem at the end of eyeo festival this year. will clean it up / format it shortly)
 
 
 
