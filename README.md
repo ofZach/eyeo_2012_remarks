@@ -1,12 +1,14 @@
 eyeo_2012_remarks
 =================
 
-my stream of conscious poem at the end of eyeo festival this year.
+(my stream of conscious poem at the end of eyeo festival this year)
 
 
 
 
-  what can go wrong?
+what can go wrong?
+=====================
+  
 		memory leaks, compiler error, uninitialized variable, lighting, bad lighting, someone trips on a cable, plugged into the wrong socket, don't have the right adapters, projector is broken, missing flights, getting lost, loosing stuff, batteries run out, logic errors and syntax errors.  It was working 20 minutes ago, I swear it was working 20 minutes ago.  loose cable, broken cable. it's always the cables.  wrong version of the software.  sound card dies, graphics card dies, hard drive dies. 
 
 windows updates, window errors, blue screens, windows balloons that pop up with helpful "your virus software is out of date".
@@ -54,6 +56,6 @@ I'll end with a story.  My father, who's a storyteller, would go out to perform,
 	
 	good luck
 	
-	and he'd run back to the porch and ask me to say two more good lucks. 
+and he'd run back to the porch and ask me to say two more good lucks. 
 	
-	So I just want to say, "good luck, good luck, good luck"
+So I just want to say, "good luck, good luck, good luck"
