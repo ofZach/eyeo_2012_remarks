@@ -9,7 +9,7 @@ eyeo_2012_remarks
 what can go wrong?
 =====================
   
-		memory leaks, compiler error, uninitialized variable, lighting, bad lighting, someone trips on a cable, plugged into the wrong socket, don't have the right adapters, projector is broken, missing flights, getting lost, loosing stuff, batteries run out, logic errors and syntax errors.  It was working 20 minutes ago, I swear it was working 20 minutes ago.  loose cable, broken cable. it's always the cables.  wrong version of the software.  sound card dies, graphics card dies, hard drive dies. 
+memory leaks, compiler error, uninitialized variable, lighting, bad lighting, someone trips on a cable, plugged into the wrong socket, don't have the right adapters, projector is broken, missing flights, getting lost, loosing stuff, batteries run out, logic errors and syntax errors.  It was working 20 minutes ago, I swear it was working 20 minutes ago.  loose cable, broken cable. it's always the cables.  wrong version of the software.  sound card dies, graphics card dies, hard drive dies. 
 
 windows updates, window errors, blue screens, windows balloons that pop up with helpful "your virus software is out of date".
 
